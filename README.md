@@ -42,7 +42,7 @@ Hello, everyone 😄 !!! I'm Thao Nguyen, and I'm from Vietnam. I am a freshman 
 •    Background color palette: #FFF2CC from Color Hunt (https://colorhunt.co/)
 
    # SOUND
-    --------------------------------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------------------------------------------
 Background music:
 •    Song: Peritune – Wish5 (Harp only) (peritune.com)
 •    Music promoted by 프리뮤직 Vlog Copyright Free Music
